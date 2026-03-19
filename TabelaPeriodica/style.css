@@ -1,44 +1,68 @@
+.tabelas{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.box-tabelas{
+    justify-self: center;
+    background-color: #b9e1ff;
+    border-radius: 3px;
+    width: 150px;
+    height: 25px;
+}
+
 .metaisAlcalinos{
-    background-color: #FF6B6B;
+    background-color: #A5D8FF;
+    border: 1px solid #77c0f8;
 }
 
 .metaisAlcalinoTerrosos{
-    background-color: #FFA94D;
+    background-color: #FFC9C9;
+    border: 1px solid #fd7878;
 }
 
 .metaisTransicao{
-    background-color: #FFD43B;
+    background-color: #D0BFFF;
+    border: 1px solid #9976f8;
 }
 
 .mataisPosTransicao{
-    background-color: #69DB7C;
+    background-color: #B2F2BB;
+    border: 1px solid #51b65f;
 }
 
 .Semimetais{
-    background-color: #38D9A9;
+    background-color: #FFE8CC;
+    border: 1px solid #c29494;
 }
 
 .NaoMetaisPoliatomicos{
-    background-color: #74C0FC;
+    background-color: #C7E6FF;
+    border: 1px solid #77bdf7;
 }
 
 .naoMetaisDiatomicos{
-    background-color: #4DABF7;
+    background-color: #91A7FF;
+    border: 1px solid #5274fd;
 }
 
 .gasesNobres{
-    background-color: #B197FC;
+    background-color: #FFD6E8;
+    border: 1px solid #f173aa;
 }
 
 .desconhecidos{
-    background-color: #ADB5BD;
+    background-color: #E9ECEF;
+    border: 1px solid #7b7e81;
 }
 
 .lantanideos{
-    background-color: #F783AC;
+    background-color: #DEE2E6;
+    border: 1px solid #7a8188;
 }
 
 .actinideos{
-    background-color: #E64980;
+    background-color: #FFD8A8;
+    border: 1px solid #f8a948;
 }
-
