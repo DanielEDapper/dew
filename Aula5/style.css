@@ -1,0 +1,53 @@
+h1{
+    color: red;
+    font-size: 15px;
+}
+
+.divInicial{
+    background-color: green;
+}
+
+.margens{
+    background-color: green;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    /*ou margin: 15px 15px 15px 15px;*/
+}
+
+.margemNegativa{
+    background-color: hotpink;
+    margin-top: -50px;
+}
+
+.paddings{
+    background-color: purple;
+    color: yellow;
+    padding: 15px;
+    margin: 15px 15px 15px 15px;
+    border: 1px solid yellow;
+}
+
+.bordas{
+    background-color: cyan;
+    border: 1px solid black;
+    border-width: 5px 10px 15px 20px;
+    margin-top: 50px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    margin-left: 50px;
+    padding: 15px;
+    border-color: red green blue yellow;
+    border-style: solid dashed dotted double; /*tbm tem ridged, inset*/
+    border-radius: 10px 25px 50px 75px;
+}
+
+/*1) Defina com suas palavras o que é CSS?
+CSS, Cascade Style Sheet, é uma linguagem de estilo utilizada para definir a apresentação de um documento escrito em HTML. Ele permite controlar a aparência visual dos elementos em uma página web, como cores, fontes, espaçamento, layout e muito mais. O CSS é fundamental para criar páginas web atraentes e responsivas, separando a estrutura do conteúdo (HTML) da sua apresentação (CSS).
+*/
+/*2) Defina com suas palavras a box model?
+A box model é um conceito fundamental no CSS que descreve a caixa em torno de cada elemento HTML. Ele consiste em quatro partes: conteúdo, padding, borda e margem. O conteúdo é a área onde o texto e as imagens são exibidos. O preenchimento é o espaço entre o conteúdo e a borda. A borda é a linha que envolve o preenchimento e o conteúdo. A margem é o espaço entre a borda e o próximo elemento.*/
+
+/*3) Qual a diferença entre padding e margin?
+O padding é o espaço entre o conteúdo de um elemento e sua borda, enquanto a margin é o espaço entre a borda de um elemento e o próximo elemento. */
